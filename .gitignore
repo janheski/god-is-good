@@ -10,3 +10,4 @@ _site
 .now/
 
 .vercel
+node_modules
