@@ -1,0 +1,11 @@
+links:
+- title: Game
+  url: /
+- title: News
+  url: /news.html
+- title: About
+  url: /about.html
+- title: Search
+  url: /search.html
+- title: Rss
+  url: /atom.xml

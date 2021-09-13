@@ -1,0 +1,62 @@
+site: Sidey
+url: https://janheski.keybase.pub
+title: janheski personal site
+description: You can expect topics about ServiceNow, Keybase, Stellar and Christianity.
+twitter:
+  username: janheski
+  card: summary
+  creator: janheski
+author:
+  twitter: janheski
+  name: janheski
+  avatar:
+  email: #youremail
+  url: https://janheski.keybase.pub
+permalink: date
+
+baseurl: ""
+
+highlighter: rouge
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name:output_ext
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug:output_ext
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
