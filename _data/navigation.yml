@@ -1,8 +1,8 @@
 links:
-- title: Game
-  url: /
 - title: News
-  url: /news.html
+  url: /
+- title: Gra
+  url: /gra.html
 - title: About
   url: /about.html
 - title: Search

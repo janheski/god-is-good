@@ -1,7 +1,7 @@
 site: Sidey
-url: https://janheski.keybase.pub
-title: janheski personal site
-description: You can expect topics about ServiceNow, Keybase, Stellar and Christianity.
+url: https://god-is-good.vercel.app/
+title: Gra "Bóg jest dobry"
+description: Gra przeglądarkowa "Bóg jest dobry".
 twitter:
   username: janheski
   card: summary
@@ -11,7 +11,7 @@ author:
   name: janheski
   avatar:
   email: #youremail
-  url: https://janheski.keybase.pub
+  url: https://janheski.vercel.app/
 permalink: date
 
 baseurl: ""

@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-Jan Hesko-Kołodziński
+Made by Hesko Games
 
 Contact me through keybase: [janheski](https://keybase.io/janheski)
