@@ -6,5 +6,5 @@ tags: [bogjestdobry,gra,game]
 lang: pl_PL
 ---
 
-Startujemy!
+Startujemy z deweloperką gry!
 
